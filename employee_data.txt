@@ -1,0 +1,4 @@
+1 26 Abdoulaye DG 2000000.00
+2 26 DIACK Ingenieur 1000000.00
+3 30 Fode Avocat 800000.00
+4 28 Pathe Maçon 300000.00
